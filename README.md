@@ -9,7 +9,8 @@ I CAN & I WILL.
 - [Telegram](https://t.me/greatstar08) :smirk:
 
 
-
+ ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=risingstar2018&show_icons=true&theme=radical) 
+ ![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=risingstar2018&show_icons=true&theme=radical) 
 <!--
 **risingstar2018/risingstar2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

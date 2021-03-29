@@ -6,7 +6,7 @@ I CAN & I WILL.
 
 ### Find me all around the web:
 
-- [Telegram](https://t.me/greatstar08) :smirk:
+- [Telegram](https://t.me/greatstar24) :smirk:
 
 
  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=risingstar2018&show_icons=true) 

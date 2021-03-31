@@ -4,10 +4,10 @@
 
 I CAN & I WILL.
 
-### Find me all around the web:
+<!--### Find me all around the web:
 
 - [Telegram](https://t.me/greatstar24) :smirk:
-
+-->
 
  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=risingstar2018&show_icons=true) 
  ![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=risingstar2018&show_icons=true) 

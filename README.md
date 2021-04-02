@@ -1,6 +1,6 @@
 ### Hey everyone, I'm Senior Developer on Blockchain area. 👋
 
-
+Come on discord greatstar#4560
 
 I CAN & I WILL.
 

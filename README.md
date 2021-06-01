@@ -1,7 +1,7 @@
-### Hey everyone, As a Senior Blockchain Blockchain Developer, I am looking for remote opportunites. 👋
+## Hey everyone, As a Senior Blockchain Blockchain Developer, I am looking for remote opportunites. 👋
 
-## I have extensive and expert-level experience with Blockchain technology like Bitcoin, Ethereum, PIVX, Smart Contract, Solidity, ERC20 and etc. 
-## I’ve built lots of projects using those technologies in the past 5 years.
+### I have extensive and expert-level experience with Blockchain technology like Bitcoin, Ethereum, PIVX, Smart Contract, Solidity, ERC20 and etc. 
+### I’ve built lots of projects using those technologies in the past 5 years.
 
 
 <!--### Find me all around the web:

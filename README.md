@@ -74,11 +74,17 @@ Here are some ideas to get you started:
                 </a>
             </td>
             <td>
-                <a href="https://github.com/risingstar2018/BrandonMarketing-Contract">
+                <a href="https://github.com/linksandstrings/cilia-android-wallet">
                     <img src="https://github.com/risingstar2018/profile/blob/master/projects/Bitcoinil.png?raw=true" width="200">
                     <p align="center">Cilia Android wallet for Bitcoin Israel</p>
                 </a>
             </td>
+            <td>
+                <a href="https://github.com/risingstar2018/vector-modal">
+                    <img src="https://github.com/risingstar2018/profile/blob/master/projects/cross_chainbridge.png?raw=true" width="200">
+                    <p align="center">Cross-Chain Bridge</p>
+                </a>
+            </td>            
         </tr>
     </tbody>        
 </table>

@@ -63,6 +63,7 @@ Here are some ideas to get you started:
         <tr>
             <td>GameToken Finance</td>
             <td>Cilia Wallet</td>
+            <td>Cross-chain Bridge(EVM compatible)</td>
         </tr>
     </thead>
     <tbody>

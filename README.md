@@ -81,7 +81,7 @@ Here are some ideas to get you started:
                 </a>
             </td>
             <td>
-                <a href="https://github.com/risingstar2018/vector-modal">
+                <a href="https://bridge.cosmicswap.finance/">
                     <img src="https://github.com/risingstar2018/profile/blob/master/projects/cross_chainbridge.png?raw=true" width="200">
                     <p align="center">Cross-Chain Bridge</p>
                 </a>
